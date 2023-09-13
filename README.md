@@ -8,7 +8,7 @@ has been built with python and the cmd liberary.
 
 ## Files
 
-The first Files are the once containing the clases and 
+The first Files are the once containing the classes and 
 all of them ar found in the models directory as part of the module.
 ### Classes :cl:
 
@@ -284,7 +284,7 @@ Given that step is already  fullfiled
 Do
 
 ```
-git clone https://github.com/hileamlakB/AirBnB_clone.git
+git clone https://github.com/henriettetuombe/AirBnB_clone.git
 ```
 
 in any directory you want 
@@ -301,4 +301,4 @@ Finally you can run the console with
 
 ## Author
 
-* *Henriette Tuombe <tuombehenriette@gmail.com>
+* Henriette Tuombe <tuombehenriette@gmail.com>
